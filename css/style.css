@@ -2,6 +2,8 @@ header{
     background-image: url(../images/Rectangle\ 1\ \(1\).png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #0000006e;
+    background-blend-mode: darken;
 }
 .hero_banner{
     height: 100vh;
