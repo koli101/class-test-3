@@ -4,12 +4,14 @@ header{
     background-size: cover;
 }
 .hero_banner{
-    height: 1117px;
+    height: 100vh;
+    height: calc( 100vh - 86px);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-right: 20px;
+    background-attachment: scroll;
 }
 .hero_banner p{
  justify-content: center;

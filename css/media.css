@@ -1,0 +1,109 @@
+@media screen and ( max-width: 767px) {
+    .hero_banner h1{
+        font-size: 20px;
+        line-height: 50px;
+    }
+    .hero_banner  p{
+        font-size: 16px;
+        text-align: center;
+    }
+    .hero_banner{
+        padding: 0 20px;
+    }
+    .hero_banner img{
+        width: 150px;
+    }
+    .arrow p{
+        display: none;
+    }
+    .title-box{
+        padding: 30px 20px;
+    }
+    .title-box span{
+       letter-spacing: 1px;
+       font-size: 16px; 
+    }
+    .title-box h2{
+        font-size: 20px;
+        margin: 8px 0 14px;
+    }
+    .col-1-2{
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+    .feamax-width {
+            max-width: 70%;
+            margin: 0 auto;
+           
+    }
+    
+        .feature-content {
+            padding: 20px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+        }
+    
+    .feature-content h3{
+        text-align: center;
+        padding: 20px;
+
+    }
+    .col-reverse-mobile{
+        flex-direction: column-reverse;
+    }
+    .subscribe-box h3 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .feature-content a {
+        font-size: 16px;
+    }
+    .feature-content h3 {
+        text-align: center;
+        padding: 16px;
+        font-size: 32px;
+    }
+    .feature-content p {
+        font-size: 16px;
+    }
+    .f-w-s h3 {
+        font-size: 28px;
+        line-height: 34px;
+    }
+    .f-w-s {
+        padding: 40px 0.5rem;
+    }
+    .f-w-s h3 {
+        font-size: 28px;
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    .f-w-s p {
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .phone-scroll img{
+        max-width: 70%;
+    }
+    .f-w-s-content {
+        padding: 20px;
+    }
+    .f-w-s-content h3 {
+        font-size: 32px;
+        line-height: 38px;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+    .f-w-s-content span {
+        margin-bottom: 29px;
+        display: block;
+        
+    }
+    .subscribe-box {
+        padding: 4rem 1rem;
+    }
+}
